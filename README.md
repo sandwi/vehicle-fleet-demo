@@ -1,3 +1,5 @@
+Fork of SpringOne@gx 2015 with fixes to make it run in corporate environment for Microservices workshop with Spring Boot/Cloud with Netflix OSS components.
+
 Vehicle Fleet
 =============
 
